@@ -1,0 +1,1 @@
+craftingTable.removeRecipe(<item:immersiveengineering:manual>);

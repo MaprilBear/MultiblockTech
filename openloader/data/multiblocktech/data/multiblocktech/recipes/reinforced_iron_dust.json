@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+    	{
+    		"item": "create:crushed_iron_ore"
+    	},
+		{
+			"item": "create:powdered_obsidian"
+		},
+		{
+			"item": "minecraft:blaze_rod",
+			"return_chance": 0.94
+		}
+    ], 
+	"results": [
+		{
+			"item": "contenttweaker:reinforced_iron_dust",
+			"count": 1
+		}
+	]
+}

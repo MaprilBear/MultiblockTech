@@ -1,0 +1,14 @@
+{
+	"type": "create:splashing",
+	"ingredients": [
+		{
+			"item": "create:limesand"
+		}
+	],
+	"results": [
+		{
+			"item": "contenttweaker:clay_lime",
+			"count": 1
+		}
+	]
+}
