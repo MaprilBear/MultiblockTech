@@ -1096,8 +1096,8 @@
 				"Is Blacklist" = false
 
 [client]
-	"Greener Grass" = true
-	"Variant Animal Textures" = true
+	"Greener Grass" = false
+	"Variant Animal Textures" = false
 	"Back Button Keybind" = true
 	"Improved Tooltips" = true
 	"Improved Mount Hud" = true
@@ -1155,11 +1155,11 @@
 		"Affect Leaves" = true
 
 [oddities]
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	Backpack = true
 	"Matrix Enchanting" = true
 	Magnets = true
-	Pipes = true
+	Pipes = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
