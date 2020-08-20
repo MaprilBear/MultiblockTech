@@ -309,18 +309,18 @@
 	[ores.copper]
 		#The maximum Y coordinate this ore can spawn at
 		#Range: > -2147483648
-		max_y = 72
+		max_y = 0
 		#The average number of veins per chunk
 		#Range: > 0
-		avg_veins_per_chunk = 8
+		avg_veins_per_chunk = 0
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 8
+		vein_size = 0
 		#Set this to true to allow retro-generation of copper Ore.
 		retrogen_enable = false
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
-		min_y = 40
+		min_y = 256
 
 	#Ore generation config - bauxite
 	[ores.bauxite]
@@ -445,7 +445,7 @@
 	bulletDamage_homing = 10.0
 	#The maximum durability of the Engineer's Hammer. Used up when hammering ingots into plates.
 	#Range: > 1
-	hammer_durability = 100
+	hammer_durability = 10000000
 	#A modifier for the damage of all projectiles fired by the Railgun
 	#Range: 0.0 ~ 1.7976931348623157E308
 	railgun_damage_modifier = 1.0

@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "immersiveengineering:ingot_nickel"
+		}
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:dust_nickel",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "immersiveengineering:ingot_uranium"
+		}
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:dust_uranium",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

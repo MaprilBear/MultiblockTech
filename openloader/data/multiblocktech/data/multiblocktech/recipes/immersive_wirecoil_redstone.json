@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" W ",
+		"RSR",
+		" W "
+	],
+	"key": {
+		"W": {
+			"item": "immersiveengineering:wire_aluminum"
+		},
+		"S": {
+			"item": "immersiveengineering:stick_treated"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:wirecoil_redstone",
+		"count": 4
+	}
+}

@@ -14,7 +14,7 @@
 		[worldgen.v1.copper_ore]
 			#
 			#Range: > 0
-			minHeight = 40
+			minHeight = 30
 			#
 			#Range: > 0
 			clusterCount = 2

@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" W ",
+		"ASA",
+		" W "
+	],
+	"key": {
+		"W": {
+			"item": "immersiveengineering:wire_steel"
+		},
+		"S": {
+			"item": "immersiveengineering:stick_treated"
+		},
+		"A": {
+			"item": "immersiveengineering:wire_aluminum"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:wirecoil_steel",
+		"count": 4
+	}
+}

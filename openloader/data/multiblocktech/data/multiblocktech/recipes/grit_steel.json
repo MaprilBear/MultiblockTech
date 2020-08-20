@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "immersiveengineering:ingot_steel"
+		}
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:dust_steel",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "create:copper_ingot"
+		}
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:dust_copper",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

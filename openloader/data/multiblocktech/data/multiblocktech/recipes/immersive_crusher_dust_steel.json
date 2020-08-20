@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "immersiveengineering:dust_steel"
+  },
+  "input": {
+    "item": "immersiveengineering:ingot_steel"
+  },
+  "energy": 3000
+}

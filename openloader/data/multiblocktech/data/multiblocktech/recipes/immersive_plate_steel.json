@@ -1,0 +1,14 @@
+{
+	"type": "create:pressing",
+	"ingredients": [
+		{
+			"item": "immersiveengineering:ingot_steel"
+		}
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:plate_steel",
+			"count": 1
+		}
+	]
+}
