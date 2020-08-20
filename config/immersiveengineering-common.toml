@@ -46,7 +46,7 @@
 	#Set to false to disable the stencil buffer. This may be necessary on older GPUs.
 	stencilBufferEnabled = true
 	#Set this to false to stop the IE villager house from spawning
-	villagerHouse = true
+	villagerHouse = false
 	#Set this to false to disable the manual's forced change of GUI scale
 	adjustManualScale = false
 	#Increase the distance at which certain TileEntities (specifically windmills) are still visible. This is a modifier, so set it to 1 for default render distance, to 2 for doubled distance and so on.
