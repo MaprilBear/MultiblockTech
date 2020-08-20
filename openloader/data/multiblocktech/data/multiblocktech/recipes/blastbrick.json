@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"nBn",
+		"BCB",
+		"nBn"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:nether_brick"
+		},
+		"B": {
+			"item": "contenttweaker:clay_lime_brick"
+		},
+		"C": {
+			"item": "contenttweaker:clay_lime_bricks"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:blastbrick",
+		"count": 3
+	}
+}

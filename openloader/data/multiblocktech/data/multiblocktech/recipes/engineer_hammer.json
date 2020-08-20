@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" Is",
+		" SI",
+		"S  "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"s": {
+			"item": "create:shadow_steel"
+		},
+		"S": {
+			"item": "immersiveengineering:stick_treated"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:hammer"
+	}
+}

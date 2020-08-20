@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sB",
+		"Bs"
+	],
+	"key": {
+		"s": {
+			"item": "contenttweaker:clay_lime_bricks"
+		},
+		"B": {
+			"item": "contenttweaker:clay_lime_brick"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:alloybrick",
+		"count": 2
+	}
+}

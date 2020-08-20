@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"bBb",
+		"BLB",
+		"bBb"
+	],
+	"key": {
+		"b": {
+			"item": "contenttweaker:clay_lime_ball"
+		},
+		"B": {
+			"item": "contenttweaker:clay_lime_brick"
+		},
+		"L": {
+			"item": "contenttweaker:clay_lime_bricks"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:cokebrick",
+		"count": 3
+	}
+}
