@@ -1,0 +1,2 @@
+mods.jei.JEI.addInfo(<item:immersiveengineering:ingot_steel>, ["It is intended you make this item using Reinforced Iron Ingots!"]);
+mods.jei.JEI.addInfo(<item:contenttweaker:reinforced_iron_ingot>, ["Used to make steel in the Immersive Engineering Blast Furnace"]);
